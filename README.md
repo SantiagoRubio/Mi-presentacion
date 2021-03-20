@@ -1,3 +1,11 @@
-#Hola, soy Santiago Rubio!
+# Hola, soy Santiago Rubio
+## Edad: 15
+### Curso y división: 4º2ª AV
 
-**Tengo 15 años y soy estudiante de Avionica del Impa**
+*Pasatiempos:*
+
+**Jugar a la play**
+
+***Ver la tele***
+
+**Leer**
