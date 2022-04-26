@@ -1,5 +1,5 @@
-# Hola, soy Santiago Rubio
-## Edad: 15
+# Hola! Soy Santiago Rubio
+## Edad: 15 años
 ### Curso y división: 4º2ª AV
 
 *Pasatiempos:*
@@ -9,3 +9,5 @@
 ***Ver la tele***
 
 **Leer**
+
+![](https://i.redd.it/kxmdjm16odiz.jpg)
