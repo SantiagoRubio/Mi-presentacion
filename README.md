@@ -2,16 +2,21 @@
 ## Edad: 18 años
 ### Curso y división: 7º2ª AV
 
+
 ### Sobre mi:
 
 Técnico Avionico y estudiante con experiencia en la resolución de problemas de electrónica, programación e informática. Tengo facilidad para trabajar tanto en equipo como de forma independiente. Estoy en busca de una oportunidad laboral de la que adquirir mas experiencia.
 
+
 ### Formacion:
 Tecnicatura en Avionica - EEST N°7 TRQ (IMPA)
+
 2018 - 2024
 
 Ingenieria Informatica - Instituto Tecnologico de Buenos Aires (ITBA)
+
 2025 - En curso
+
 
 ### Proyectos realizados:
 
